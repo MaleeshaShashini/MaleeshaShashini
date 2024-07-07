@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+:root{
+    --primary-color: #060155;
+    --text-color: #727171;
+
+
+}
+html{ 
+    font-size: 10px;
+
+}
+body{
+    font-family: Inter,sans-serif;
+    background-color:black;
+    color:white;
+
+}
+
+/* common style*/
+img {
+    width: 100%;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.discription{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--text-color);
+}
+.tittle{
+    color: var(--primary-color);
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+
+/*layouts*/
+.container{
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    padding: 5rem;
+    background: #252525;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .container{
+        width: 100%;
+        grid-template-columns: 1fr;
+        padding: 3rem;
+        gap: 7rem;
+    }
+    
+}
+.profile{
+    grid-column: 1 / -1;
+    margin-bottom: 2rem;
+
+}
+/*profile*/
+.profile_container{
+    display: flex;
+    gap: 2rem;
+
+}
+.profile_profileImg{
+    max-width: 250px;
+    
+}
+.profile_name{
+    color: #060155;
+    font-weight: 900;
+    font-size: xx-large;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 1rem;
+    margin-top: 6rem;
+}
+.profile_title{
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+/*experitise*/
+.skill_list{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+}
+.contact{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 2rem;
+}
+.education{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 1rem;
+}
+.languages{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 1rem;
+}
+.experience{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 1rem;
+}
+.interest{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+    margin-bottom: 1rem;
+}
+hr{
+    grid-column: 1/-1;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+   
+    
+}
+/*social*/
+.social_items{
+margin-top: 2rem;
+}
+.social_items{
+    margin-top: 2rem;
+    }
