@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maleesha shashini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maleesha shashini" height="30" width="40" /></a>
-<a href="https://fb.com/maleesha shashini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maleesha shashini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Maleesha Shashini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maleesha Shashini" height="30" width="40" /></a>
 <a href="https://instagram.com/maleesha.shashini.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maleesha.shashini.16" height="30" width="40" /></a>
 </p>
 
