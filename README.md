@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshashashini&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshashashini" /> </p>
 
-- 🌱 I’m currently learning **at OUSL.**
+- 🌱 I’m also learning **at OUSL.**
 
 - 📫 How to reach me **maleeshashashini70@gmail.com**
 
