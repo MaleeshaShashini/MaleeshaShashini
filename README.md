@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshashashini&show_icons=true&locale=en&layout=compact" alt="maleeshashashini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maleeshashashini&show_icons=true&locale=en" alt="maleeshashashini" /></p>
+
+[![An image of @maleeshashashini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maleeshashashini)](https://holopin.io/@maleeshashashini)
