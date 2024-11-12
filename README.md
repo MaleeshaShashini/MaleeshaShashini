@@ -31,10 +31,7 @@
 
 <br>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleeshashashini" alt="maleeshashashini" /></a> </p>
-
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maleeshashashini&show_icons=true&locale=en&layout=compact" alt="maleeshashashini" /></p>
 
