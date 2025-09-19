@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **maleeshashashini70@gmail.com**
   
-- 📄 Know about my experiences **[https://drive.google.com/file/d/12XNjxiOl8LW2i82aTCSZcV1YwIyn3C1A/view?usp=sharing](https://drive.google.com/file/d/12XNjxiOl8LW2i82aTCSZcV1YwIyn3C1A/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/12XNjxiOl8LW2i82aTCSZcV1YwIyn3C1A/view?usp=sharing](https://drive.google.com/file/d/195IzCYgm8HAScyzJ2NhUuewSLltbc6XF/view?usp=sharing)**
 
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshashashini&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshashashini" /> </p>
