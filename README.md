@@ -19,12 +19,11 @@
 - 💻 **Co-founder of UFOSE Software**, actively developing scalable client projects and digital assets.
 - 🔍 Looking for **Software Development Internship** opportunities.
   
-<a href="https://drive.google.com/file/d/195IzCYgm8HAScyzJ2NhUuewSLltbc6XF/view" target="_blank">
+<a href="[https://drive.google.com/file/d/195IzCYgm8HAScyzJ2NhUuewSLltbc6XF/view](https://drive.google.com/file/d/1Pv5-uA-7Y_5amhQLaPIm5DqPtz6rQeGW/view?usp=sharing)" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Resume-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Maleesha's Resume" />
 </a>
 
-  <br>
-<p align="left"> <img src="https://drive.google.com/file/d/1Pv5-uA-7Y_5amhQLaPIm5DqPtz6rQeGW/view?usp=sharing" alt="maleeshashashini" /> </p>
+  
  <br>
  
 ---
